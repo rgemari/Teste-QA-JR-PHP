@@ -16,12 +16,14 @@ Antes de iniciar o projeto, verifique se os seguintes requisitos estão instalad
 
 > Instalação:
 1. Clonar o repositório
+
 Primeiro, clone este repositório para o seu ambiente local:
 
 git clone https://github.com/rgemari/teste-qa-jr-php.git
 cd teste-qa-jr-php
 
 2. Instalar as dependências
+
 Execute o seguinte comando para instalar todas as dependências do Laravel:
 
 composer install
