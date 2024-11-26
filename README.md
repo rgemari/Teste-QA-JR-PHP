@@ -5,7 +5,11 @@ Requisitos
 Antes de iniciar o projeto, verifique se os seguintes requisitos estão instalados:
 
 PHP: 8.0 ou superior
+
 Composer: para gerenciar as dependências do PHP
+
 Laravel: versão mais recente
+
 MySQL: banco de dados para armazenamento dos dados
+
 Pest PHP: ferramenta para testes automatizados
