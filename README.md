@@ -52,3 +52,10 @@ As migrações e seeders são necessárias para criar as tabelas service_orders 
 Execute o seguinte comando para rodar as migrações:
 
 `php artisan migrate --seed`
+
+<h4> 5. Iniciar o servidor </h4>
+
+Agora, inicie o servidor Laravel:
+
+`php artisan serve`
+
